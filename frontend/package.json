@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "diff-match-patch": "^1.0.4",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^4.3.1",
